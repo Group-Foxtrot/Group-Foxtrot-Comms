@@ -1,3 +1,3 @@
-# CS3028 Group Foxtrot
+# Repository Notice
 
-<continue>
+This repository is established for public comms and release notes.
